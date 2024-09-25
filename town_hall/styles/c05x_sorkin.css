@@ -15,6 +15,12 @@ main h1{
 	font-size: 150%;
 	color: blue;
 }
+main h2{
+	font-size: 125%;
+}
+main h3{
+	font-size: 115%;
+}
 footer{
 	margin: 0 1em;
 	border-top: solid blue;
