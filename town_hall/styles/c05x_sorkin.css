@@ -11,6 +11,10 @@ body {
 main{
 	padding: 1em;
 }
+main h1{
+	font-size: 150%
+	color: blue;
+}
 footer{
 	margin: 0 1em;
 	border-top: solid blue;
