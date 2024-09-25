@@ -6,4 +6,5 @@ body {
 	font-size: 100%;
 	width: 650px;
 	border: 10px double blue;
+	text-align: center;
 }
