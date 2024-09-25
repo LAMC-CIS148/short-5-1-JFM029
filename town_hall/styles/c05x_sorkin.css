@@ -10,7 +10,7 @@ body {
 	border: 10px double blue;
 }
 main{
-	padding: 5px;
+	padding: 1em;
 }
 main h1{
 	font-size: 150%;
