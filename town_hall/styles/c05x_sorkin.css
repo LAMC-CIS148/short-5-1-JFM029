@@ -12,6 +12,7 @@ main{
 	padding: 1em;
 }
 footer{
+	margin: 0 1em;
 	border-top: solid blue;
 	padding: 1em
 }
