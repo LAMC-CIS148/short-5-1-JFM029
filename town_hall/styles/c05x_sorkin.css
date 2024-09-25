@@ -11,3 +11,6 @@ body {
 main{
 	padding: 1em;
 }
+footer{
+	border-top: solid blue;
+}
