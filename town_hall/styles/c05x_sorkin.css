@@ -15,8 +15,8 @@ main{
 main h1{
 	font-size: 150%;
 	color: blue;
-	margin: 1em;
-	padding: 1em;
+	margin: auto;
+	padding: auto;
 }
 main h2{
 	font-size: 125%;
