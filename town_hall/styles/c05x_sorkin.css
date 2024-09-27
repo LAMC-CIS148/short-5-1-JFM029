@@ -8,6 +8,7 @@ body {
 	margin: 0 auto;
 	background-color: white;
 	border: 10px double blue;
+	padding: 10px
 }
 main{
 	padding: 1em;
