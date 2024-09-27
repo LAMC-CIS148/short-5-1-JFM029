@@ -9,8 +9,8 @@ body {
 	background-color: white;
 	border: 10px double blue;
 }
-main p{
-	padding: 1px
+main{
+	padding: 5px
 }
 img{
 	float: left;
