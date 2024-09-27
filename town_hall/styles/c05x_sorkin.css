@@ -12,6 +12,9 @@ body {
 main{
 	padding: 1em;
 }
+main img{
+	float: left;
+}
 main h1{
 	font-size: 150%;
 	color: blue;
