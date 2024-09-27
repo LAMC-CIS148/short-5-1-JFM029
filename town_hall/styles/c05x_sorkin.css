@@ -22,7 +22,7 @@ main h1{
 	font-size: 150%;
 	color: blue;
 	margin: 5px;
-	padding: auto;
+	padding: 0px;
 }
 main h2{
 	font-size: 125%;
