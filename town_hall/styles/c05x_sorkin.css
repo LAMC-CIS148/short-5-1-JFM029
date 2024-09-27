@@ -9,9 +9,6 @@ body {
 	background-color: white;
 	border: 10px double blue;
 }
-main p{
-	padding: 1px;
-}
 img{
 	float: left;
 }
