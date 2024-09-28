@@ -12,6 +12,9 @@ body {
 main{
 	padding: 40px
 }
+p{
+	margin: 10px
+}
 img{
 	float: left;
 }
