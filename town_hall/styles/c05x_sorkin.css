@@ -21,7 +21,7 @@ img{
 main h1{
 	font-size: 150%;
 	color: blue;
-	margin: 4px;
+	margin: 0 auto;
 	padding: 0px;
 }
 main h2{
