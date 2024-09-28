@@ -13,7 +13,7 @@ main{
 	padding: 40px
 }
 p{
-	margin: 10px
+	margin: 10px 10px 10px 10px;
 }
 img{
 	float: left;
