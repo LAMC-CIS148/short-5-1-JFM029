@@ -15,6 +15,10 @@ main{
 p{
 	padding: 5px
 }
+.Cite{
+	color: blue;
+	text-align: right;
+}
 img{
 	float: left;
 }
